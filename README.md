@@ -99,8 +99,8 @@ Arquivos de estratégia e especificação técnica (para melhor compreensão):
 * **Figma** - Prototipação de Interface
   - [Acessar Wireframes](https://www.figma.com/design/4I51qHv63A3xZLQH2ZIkHm/EduBook-PUC)
 
-* **GitHub** - Repositório do Projeto
-  - [Acessar Repositório](https://github.com/lucianacoda/MVP-Biblioteca-Escolar)
+* **Vídeo de apresentação** - Dropbox
+  - [Acessar Vídeo](https://www.dropbox.com/scl/fi/36kz66q6gd3nznkn7uhyc/LUCIANA-GOMES-MVP-GESTAO-AGIL.mov?rlkey=f9j9dpyqkygjbbb1yflsxk23b&st=fh8y213c&dl=0)
 
 ---
 
